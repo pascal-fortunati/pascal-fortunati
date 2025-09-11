@@ -4,8 +4,8 @@
 
 ## À propos de moi
 
-Passionné par le **développement web**, le **design** et les **technologies modernes**, j’aime créer des expériences utilisateur uniques et coder des projets complets 🚀  
-Toujours partant pour relever de nouveaux défis, apprendre et partager mes connaissances !
+Passionné par le développement web, le design et les technologies modernes, je crée des expériences utilisateur uniques et développe des projets complets
+Toujours motivé pour relever de nouveaux défis, apprendre de nouvelles compétences et partager mes connaissances avec la communauté !
 
 ---
 
