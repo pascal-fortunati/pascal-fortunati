@@ -52,9 +52,10 @@ Toujours partant pour relever de nouveaux défis, apprendre et partager mes conn
 ---
 
 ## 🎣 Passions
-- 🎨 Design graphique et UI/UX  
-- 🕹️ Jeux vidéo et technologie  
-- 🌱 Apprentissage continu  
+- 🌏 L’Asie en général & la culture asiatique  
+- ✈️ Les voyages & la découverte de nouveaux horizons  
+- 🕹️ Jeux vidéo (et tout ce qui touche à la technologie)  
+- 🎨 Design graphique & UI/UX  
 
 ---
 
