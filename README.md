@@ -84,12 +84,16 @@ Toujours motivé pour relever de nouveaux défis, apprendre de nouvelles compét
 
 ## 🎣 Passions
 
-<div align="center">
-
-🎌 L’Asie & la culture asiatique | ✈️ Voyages & découverte  
-🕹️ Jeux vidéo & technologies | 🎨 Design graphique & UI/UX  
-
-</div>
+<table>
+  <tr>
+    <td><strong>🎌 L’Asie & culture asiatique</strong></td>
+    <td><strong>✈️ Voyages & découverte</strong></td>
+  </tr>
+  <tr>
+    <td><strong>🕹️ Jeux vidéo & technologies</strong></td>
+    <td><strong>🎨 Design graphique & UI/UX</strong></td>
+  </tr>
+</table>
 
 ---
 
