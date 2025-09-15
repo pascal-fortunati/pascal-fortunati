@@ -37,17 +37,17 @@ Toujours motivé pour relever de nouveaux défis, apprendre de nouvelles compét
   <tr>
     <td>
       <a href="https://github.com/pascal-fortunati/pascal-fortunati.github.io">
-        <strong>📁 Portfolio Web</strong>
+        <strong>💼 Portfolio GitHub</strong>
       </a>
     </td>
     <td>
       <a href="https://github.com/pascal-fortunati/vitirine">
-        <strong>🎨 Vitrine Design</strong>
+        <strong>🎨 Projet Vitrine</strong>
       </a>
     </td>
     <td>
-      <a href="https://github.com/DWWM-TOULON-2025-2026/group-1-scrum">
-        <strong>👥 Scrum Group Project</strong>
+      <a href="https://github.com/pascal-fortunati/fansite">
+        <strong>🧑‍🤝‍🧑 Projet Fansite</strong>
       </a>
     </td>
   </tr>
@@ -58,8 +58,13 @@ Toujours motivé pour relever de nouveaux défis, apprendre de nouvelles compét
       </a>
     </td>
     <td>
-      <a href="https://github.com/mohamed-sadoune83/Voyages">
-        <strong>🌍 Voyages</strong>
+      <a href="https://github.com/pascal-fortunati/projet-voyages">
+        <strong>✈️ Projet Voyages</strong>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/pascal-fortunati/jour-git">
+        <strong>⚙️ Projet Git</strong>
       </a>
     </td>
   </tr>
