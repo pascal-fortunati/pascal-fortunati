@@ -74,11 +74,11 @@ Toujours motivé pour relever de nouveaux défis, apprendre de nouvelles compét
 
 ## 📊 Mes Stats GitHub
 
-![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=pascal-fortunati&show_icons=true&theme=radical)  
+![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=pascal-fortunati&show_icons=true&theme=tokyonight&locale=fr)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=pascal-fortunati&layout=compact&theme=radical)  
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=pascal-fortunati&layout=compact&theme=tokyonight&locale=fr)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pascal-fortunati&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=pascal-fortunati&theme=tokyonight&locale=fr)
 
 ---
 
