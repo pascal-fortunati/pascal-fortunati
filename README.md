@@ -33,11 +33,37 @@ Toujours motivé pour relever de nouveaux défis, apprendre de nouvelles compét
 
 ## 🌟 Projets phares
 
-- [Portfolio Web](https://github.com/pascal-fortunati/pascal-fortunati.github.io)  
-- [Vitrine Design](https://github.com/pascal-fortunati/vitirine)  
-- [Scrum Group Project](https://github.com/DWWM-TOULON-2025-2026/group-1-scrum)  
-- [Projet HTML Scrum](https://github.com/pascal-fortunati/projet-html-scrum)  
-- [Voyages](https://github.com/mohamed-sadoune83/Voyages)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/pascal-fortunati/pascal-fortunati.github.io">
+        <strong>📁 Portfolio Web</strong>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/pascal-fortunati/vitirine">
+        <strong>🎨 Vitrine Design</strong>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/DWWM-TOULON-2025-2026/group-1-scrum">
+        <strong>👥 Scrum Group Project</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/pascal-fortunati/projet-html-scrum">
+        <strong>💻 Projet HTML Scrum</strong>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mohamed-sadoune83/Voyages">
+        <strong>🌍 Voyages</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -52,10 +78,13 @@ Toujours motivé pour relever de nouveaux défis, apprendre de nouvelles compét
 ---
 
 ## 🎣 Passions
-- 🌏 L’Asie en général & la culture asiatique  
-- ✈️ Les voyages & la découverte de nouveaux horizons  
-- 🕹️ Jeux vidéo (et tout ce qui touche à la technologie)  
-- 🎨 Design graphique & UI/UX  
+
+<div align="center">
+
+🎌 L’Asie & la culture asiatique | ✈️ Voyages & découverte  
+🕹️ Jeux vidéo & technologies | 🎨 Design graphique & UI/UX  
+
+</div>
 
 ---
 
