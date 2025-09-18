@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pascal%20Fortunati&fontSize=40&fontAlignY=35&desc=Développeur%20Web%20&%20Designer%20⚡&descAlignY=55&descAlign=50)
 
-# 👨‍💻 Développeur Web & Designer
+# 👨‍💻 Développeur Web Full Stack & Designer
 
 ## À propos de moi
 
