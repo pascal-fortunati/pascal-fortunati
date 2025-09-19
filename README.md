@@ -78,7 +78,7 @@ Toujours motivé pour relever de nouveaux défis, apprendre de nouvelles compét
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=pascal-fortunati&layout=compact&theme=tokyonight&locale=fr)
 
-![GitHub Streak]([https://streak-stats.demolab.com?user=pascal-fortunati&theme=tokyonight&locale=fr](https://streak-stats.demolab.com?user=pascal-fortunati&theme=tokyonight&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D))
+![GitHub Streak](https://streak-stats.demolab.com?user=pascal-fortunati&theme=tokyonight&locale=fr)
 
 ---
 
